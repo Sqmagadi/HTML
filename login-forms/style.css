@@ -74,4 +74,7 @@ span.password {
     .cancelbtn {
         width: 100%;
     }
+    .form-container {
+        width: 100%;
+    }
 }
